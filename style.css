@@ -162,10 +162,14 @@ section {
 
 /* PROFILE SECTION */
 
+#grad-pic {
+  border-radius: 5%;
+}
+
 #profile {
   display: flex;
   justify-content: center;
-  gap: 5rem;
+  gap: 10rem;
   height: 80vh;
 }
 
